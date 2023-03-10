@@ -26,13 +26,5 @@ pipeline {
             }
         }
         
-        stage ("Push to ECR") {
-
-        }
-        
-        stage ("Deploy to K8S") {
-
-           
-        }
     }
 }
